@@ -33,8 +33,6 @@ function verificarChute(){
             limparCampo();
             tentativas++;
           }
-          
-               
   }
     
   
